@@ -1,12 +1,12 @@
 // Replace these values with your Firebase project config
 const firebaseConfig = {
-    apiKey: "AIzaSyDhNKN8TdNOfill6ao1wJY5h5ZlZLcVPOg",
-  authDomain: "paymentlink-803d2.firebaseapp.com",
-  projectId: "paymentlink-803d2",
-  storageBucket: "paymentlink-803d2.appspot.com",
-  messagingSenderId: "72502293551",
-  appId: "1:72502293551:web:41557cff00e017485a82da",
-  measurementId: "G-77HLHRP89L"
+  apiKey: "AIzaSyACwb52iRqekWgJcrqDPSn_hBERiNSAQc0",
+  authDomain: "paymentlink-369c6.firebaseapp.com",
+  projectId: "paymentlink-369c6",
+  storageBucket: "paymentlink-369c6.appspot.com",
+  messagingSenderId: "216941734876",
+  appId: "1:216941734876:web:bea04f0f30a3740ca87d19",
+  measurementId: "G-W72FCX09NY"
 };
 
 firebase.initializeApp(firebaseConfig);
